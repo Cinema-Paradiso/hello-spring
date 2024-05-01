@@ -12,7 +12,6 @@ public class HelloSpringApplication {
 		Member member = new Member();
 		System.out.println("member = " + member);
 		System.out.println(member.getClass());
-		System.out.println("sefnl");
 
 
 	}
